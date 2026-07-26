@@ -127,7 +127,7 @@ and spending patterns using SQL and business intelligence.
 
 <p>
 <strong>Tech Stack:</strong><br>
-SQL • MySQL • Python • Data Analysis • Power BI
+SQL • MySQL • Python • Data Analysis • Tableau
 </p>
 
 <p>
