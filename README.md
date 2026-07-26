@@ -1,16 +1,21 @@
 <div align="center">
-  
-# Hi, I'm Srisupha Chawla 
 
-### Data Science • AI/ML • Data Engineering 
+<a href="https://github.com/Srisupha29">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Srisupha+Chawla;Computer+Science+Student;Data+Science+%7C+AI%2FML+%7C+Data+Engineering;Building+Data-Driven+Solutions" alt="Typing SVG" />
+</a>
 
-I'm a **Computer Science student** interested in building data-driven solutions at the intersection of **machine learning, analytics, software engineering, and business**.
+<p>
+  <a href="www.linkedin.com/in/srisupha-chawla">LinkedIn</a> •
+  <a href="https://github.com/Srisupha29">GitHub</a>
+</p>
 
-I enjoy working across the data lifecycle — from **SQL and data analysis** to **machine learning, visualization, deployment, and automation**.
+<p>
+  I'm a <strong>Computer Science student</strong> interested in building
+  data-driven solutions at the intersection of
+  <strong>machine learning, analytics, software engineering, and business.</strong>
+</p>
 
-Currently exploring **Data Engineering, AI/ML, Cloud Computing, and intelligent applications**.
-
----
+</div>
 
 ## What I Do
 
