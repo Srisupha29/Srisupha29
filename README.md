@@ -12,20 +12,20 @@ Currently exploring **Data Engineering, AI/ML, Cloud Computing, and intelligent 
 
 ---
 
-## 🧠 What I Do
+## What I Do
 
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h3>📊 Data Science</h3>
+      <h3>Data Science</h3>
       <p>EDA, statistics, feature engineering, machine learning, model evaluation, and predictive analytics.</p>
     </td>
     <td width="33%" valign="top">
-      <h3>🗄️ Data & Analytics</h3>
+      <h3> Data & Analytics</h3>
       <p>SQL, data cleaning, ETL, business intelligence, KPI analysis, and interactive Power BI dashboards.</p>
     </td>
     <td width="33%" valign="top">
-      <h3>💻 Software Engineering</h3>
+      <h3> Software Engineering</h3>
       <p>Data structures, algorithms, APIs, Git, Docker, Streamlit, Java, Python, Scala, and Rust.</p>
     </td>
   </tr>
@@ -33,7 +33,7 @@ Currently exploring **Data Engineering, AI/ML, Cloud Computing, and intelligent 
 
 ---
 
-## 🚀 Featured Portfolio Projects
+## Featured Portfolio Projects
 
 <table>
   <tr>
@@ -62,7 +62,7 @@ Currently exploring **Data Engineering, AI/ML, Cloud Computing, and intelligent 
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages
 
@@ -102,7 +102,7 @@ Currently exploring **Data Engineering, AI/ML, Cloud Computing, and intelligent 
 
 ---
 
-## 🔬 Currently Learning
+## Currently Learning
 
 <table>
   <tr>
@@ -118,7 +118,7 @@ Currently exploring **Data Engineering, AI/ML, Cloud Computing, and intelligent 
       </ul>
     </td>
     <td width="33%" valign="top">
-      <h3>🤖 AI & Machine Learning</h3>
+      <h3> AI & Machine Learning</h3>
       <ul>
         <li>Deep Learning</li>
         <li>Neural Networks</li>
@@ -129,7 +129,7 @@ Currently exploring **Data Engineering, AI/ML, Cloud Computing, and intelligent 
       </ul>
     </td>
     <td width="33%" valign="top">
-      <h3>⚙️ Software Engineering</h3>
+      <h3> Software Engineering</h3>
       <ul>
         <li>Docker</li>
         <li>API Development</li>
@@ -144,7 +144,7 @@ Currently exploring **Data Engineering, AI/ML, Cloud Computing, and intelligent 
 
 ---
 
-## 🎯 Areas of Interest
+## Areas of Interest
 
 <p align="center">
   <img src="https://img.shields.io/badge/Data%20Science-3776AB?style=for-the-badge"/>
@@ -174,7 +174,7 @@ My work in data and AI is supported by a foundation in:
 
 ---
 
-## 🌱 What I'm Building Toward
+## What I'm Building Toward
 
 I'm working toward becoming a **data-focused software engineer / data scientist** who can build complete data products rather than only individual models.
 
@@ -198,7 +198,7 @@ Automation & Scale
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true" height="170"/>
@@ -211,7 +211,7 @@ Automation & Scale
 
 ---
 
-## 📫 Let's Connect
+## Let's Connect
 
 <p>
   <a href="www.linkedin.com/in/srisupha-chawla">
