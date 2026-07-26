@@ -1,3 +1,5 @@
+<div align="center">
+  
 # Hi, I'm Srisupha Chawla 
 
 ### Data Science • AI/ML • Data Engineering 
@@ -223,3 +225,4 @@ Automation & Scale
   <i>Building with data. Learning by building.</i>
 </p>
 
+</div>
