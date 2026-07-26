@@ -41,26 +41,19 @@ Currently exploring **Data Engineering, AI/ML, Cloud Computing, and intelligent 
       <p><strong>Tech Stack:</strong> Python, Pandas, Scikit-learn, Streamlit, Docker</p>
       <a href="https://breast-cancer-prediction29.streamlit.app/">🔗 Live Demo</a> |
 <a href="https://github.com/Srisupha29/DataScience_Projects/tree/main/Breast_CancerPrediction">💻 Source Code</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>02. 📈 Stock Market Analytics</h3>
-      <p>A financial analytics project combining SQL and Power BI to explore stock market performance, identify trends, calculate KPIs, and create interactive dashboards.</p>
-      <p><strong>Tech Stack:</strong> SQL, MySQL, Python, Power BI</p>
-      <a href="YOUR_POWERBI_URL">🔗 Live Dashboard</a> | <a href="YOUR_GITHUB_REPO_URL">💻 Source Code</a>
-    </td>
+   <td width="50%" valign="top">
+      <h3>02. 🛍️ Customer Shopping Behavior Analysis</h3>
+      <p>A data analytics project using customer shopping data to explore purchasing patterns, customer demographics, product performance,    reviews, and spending behaviour through SQL-based analysis.</p>
+     <p><strong>Tech Stack:</strong> SQL, MySQL, Data Analysis</p>
+     <a href="https://github.com/Srisupha29/DataScience_Projects/tree/main/Customer_Shopping_Behavior_Analysis">💻 Source Code</a>
+   </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>03. 🚚 Supply Chain Risk Analysis</h3>
       <p>A data science project focused on identifying high-risk supply chain conditions using inventory, lead times, shipping, manufacturing, defect, and inspection data.</p>
       <p><strong>Tech Stack:</strong> Python, Pandas, Scikit-learn, Statistics, Machine Learning</p>
-      <a href="YOUR_GITHUB_REPO_URL">💻 Source Code</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>04. ⚙️ Optimization & Decision Science</h3>
-      <p>Optimization projects involving linear programming, mixed-integer programming, and algorithmic decision-making for real-world operational problems.</p>
-      <p><strong>Tech Stack:</strong> Python, CPLEX, Linear Programming, MILP</p>
-      <a href="YOUR_GITHUB_REPO_URL">💻 Source Code</a>
+      <a href="https://github.com/Srisupha29/DataScience_Projects/tree/main/SupplyChain">💻 Source Code</a>
     </td>
   </tr>
 </table>
