@@ -198,17 +198,20 @@ Automation & Scale
 
 ---
 
-## GitHub Analytics
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true" height="170"/>
+## 📊 GitHub Analytics
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Srisupha29&show_icons=true&theme=transparent&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srisupha29&layout=compact&theme=transparent&hide_border=true" height="170"/>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=transparent&hide_border=true"/>
+<p>
+  <img src="https://streak-stats.demolab.com?user=Srisupha29&theme=transparent&hide_border=true"/>
 </p>
 
+</div>
 ---
 
 ## Let's Connect
