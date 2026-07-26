@@ -39,7 +39,8 @@ Currently exploring **Data Engineering, AI/ML, Cloud Computing, and intelligent 
       <h3>01. 🩺 Breast Cancer Prediction</h3>
       <p>A machine learning classification project using clinical data to predict breast cancer outcomes, with exploratory analysis, model evaluation, and an interactive deployment.</p>
       <p><strong>Tech Stack:</strong> Python, Pandas, Scikit-learn, Streamlit, Docker</p>
-      <a href=[YOUR_LIVE_DEMO_URL](https://breast-cancer-prediction29.streamlit.app/)>🔗 Live Demo</a> | <a href="[YOUR_GITHUB_REPO_URL](https://github.com/Srisupha29/DataScience_Projects/tree/main/Breast_CancerPrediction)">💻 Source Code</a>
+      <a href="https://breast-cancer-prediction29.streamlit.app/">🔗 Live Demo</a> |
+<a href="https://github.com/Srisupha29/DataScience_Projects/tree/main/Breast_CancerPrediction">💻 Source Code</a>
     </td>
     <td width="50%" valign="top">
       <h3>02. 📈 Stock Market Analytics</h3>
