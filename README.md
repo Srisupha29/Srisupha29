@@ -5,7 +5,7 @@
 </a>
 
 <p>
-  <a href="www.linkedin.com/in/srisupha-chawla">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/srisupha-chawla/">LinkedIn</a> •
   <a href="https://github.com/Srisupha29">GitHub</a>
 </p>
 
@@ -17,20 +17,26 @@
 
 </div>
 
-## What I Do
+---
+
+<div align="center">
+
+## 🧠 What I Do
+
+</div>
 
 <table>
   <tr>
-    <td width="33%" valign="top">
-      <h3>Data Science</h3>
+    <td width="33%" valign="top" align="center">
+      <h3>📊 Data Science</h3>
       <p>EDA, statistics, feature engineering, machine learning, model evaluation, and predictive analytics.</p>
     </td>
-    <td width="33%" valign="top">
-      <h3> Data & Analytics</h3>
+    <td width="33%" valign="top" align="center">
+      <h3>📈 Data & Analytics</h3>
       <p>SQL, data cleaning, ETL, business intelligence, KPI analysis, and interactive Power BI dashboards.</p>
     </td>
-    <td width="33%" valign="top">
-      <h3> Software Engineering</h3>
+    <td width="33%" valign="top" align="center">
+      <h3>💻 Software Engineering</h3>
       <p>Data structures, algorithms, APIs, Git, Docker, Streamlit, Java, Python, Scala, and Rust.</p>
     </td>
   </tr>
@@ -38,7 +44,11 @@
 
 ---
 
-## Featured Portfolio Projects
+<div align="center">
+
+## 🚀 Featured Portfolio Projects
+
+</div>
 
 <table>
   <tr>
@@ -47,14 +57,17 @@
       <p>A machine learning classification project using clinical data to predict breast cancer outcomes, with exploratory analysis, model evaluation, and an interactive deployment.</p>
       <p><strong>Tech Stack:</strong> Python, Pandas, Scikit-learn, Streamlit, Docker</p>
       <a href="https://breast-cancer-prediction29.streamlit.app/">🔗 Live Demo</a> |
-<a href="https://github.com/Srisupha29/DataScience_Projects/tree/main/Breast_CancerPrediction">💻 Source Code</a>
-   <td width="50%" valign="top">
+      <a href="https://github.com/Srisupha29/DataScience_Projects/tree/main/Breast_CancerPrediction">💻 Source Code</a>
+    </td>
+
+    <td width="50%" valign="top">
       <h3>02. 🛍️ Customer Shopping Behavior Analysis</h3>
-      <p>A data analytics project using customer shopping data to explore purchasing patterns, customer demographics, product performance,    reviews, and spending behaviour through SQL-based analysis.</p>
-     <p><strong>Tech Stack:</strong> SQL, MySQL, Data Analysis</p>
-     <a href="https://github.com/Srisupha29/DataScience_Projects/tree/main/Customer_Shopping_Behavior_Analysis">💻 Source Code</a>
-   </td>
+      <p>A data analytics project using customer shopping data to explore purchasing patterns, customer demographics, product performance, reviews, and spending behaviour through SQL-based analysis.</p>
+      <p><strong>Tech Stack:</strong> SQL, MySQL, Data Analysis</p>
+      <a href="https://github.com/Srisupha29/DataScience_Projects/tree/main/Customer_Shopping_Behavior_Analysis">💻 Source Code</a>
+    </td>
   </tr>
+
   <tr>
     <td width="50%" valign="top">
       <h3>03. 🚚 Supply Chain Risk Analysis</h3>
@@ -62,12 +75,20 @@
       <p><strong>Tech Stack:</strong> Python, Pandas, Scikit-learn, Statistics, Machine Learning</p>
       <a href="https://github.com/Srisupha29/DataScience_Projects/tree/main/SupplyChain">💻 Source Code</a>
     </td>
+
+    <td width="50%" valign="top">
+      <h3>04. 🔬 Coming Soon</h3>
+      <p>More data science, machine learning, data engineering, and AI projects are currently in development.</p>
+      <p><strong>Focus:</strong> Data Engineering, AI, ML, Analytics</p>
+    </td>
   </tr>
 </table>
 
 ---
 
-## Tech Stack
+<div align="center">
+
+## 🛠️ Tech Stack
 
 ### Languages
 
@@ -86,7 +107,7 @@
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
 </p>
 
 ### Data & Business Intelligence
@@ -105,15 +126,21 @@
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
 </p>
 
+</div>
+
 ---
 
-## Currently Learning
+<div align="center">
+
+## 📚 Currently Learning
+
+</div>
 
 <table>
   <tr>
-    <td width="33%" valign="top">
+    <td width="33%" valign="top" align="center">
       <h3>🏗️ Data Engineering</h3>
-      <ul>
+      <ul align="left">
         <li>ETL Pipelines</li>
         <li>REST APIs</li>
         <li>Apache Airflow</li>
@@ -122,9 +149,10 @@
         <li>Cloud Data Platforms</li>
       </ul>
     </td>
-    <td width="33%" valign="top">
-      <h3> AI & Machine Learning</h3>
-      <ul>
+
+    <td width="33%" valign="top" align="center">
+      <h3>🤖 AI & Machine Learning</h3>
+      <ul align="left">
         <li>Deep Learning</li>
         <li>Neural Networks</li>
         <li>RAG</li>
@@ -133,9 +161,10 @@
         <li>Model Deployment</li>
       </ul>
     </td>
-    <td width="33%" valign="top">
-      <h3> Software Engineering</h3>
-      <ul>
+
+    <td width="33%" valign="top" align="center">
+      <h3>💻 Software Engineering</h3>
+      <ul align="left">
         <li>Docker</li>
         <li>API Development</li>
         <li>System Design</li>
@@ -149,9 +178,11 @@
 
 ---
 
-## Areas of Interest
+<div align="center">
 
-<p align="center">
+## 🔍 Areas of Interest
+
+<p>
   <img src="https://img.shields.io/badge/Data%20Science-3776AB?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Artificial%20Intelligence-8A2BE2?style=for-the-badge"/>
@@ -161,21 +192,32 @@
   <img src="https://img.shields.io/badge/Supply%20Chain%20Analytics-4682B4?style=for-the-badge"/>
 </p>
 
+</div>
+
 ---
 
-## 📚 Computer Science Foundation
+<div align="center">
 
-My work in data and AI is supported by a foundation in:
+## 🎓 Computer Science Foundation
 
-* Data Structures & Algorithms
-* Object-Oriented Programming
-* Functional Programming
-* Parallel & Concurrent Programming
-* Database Systems
-* Linear Algebra
-* Statistics
-* Discrete Mathematics
-* Mathematical Optimization
+</div>
+
+<p align="center">
+  Data Structures & Algorithms •
+  Object-Oriented Programming •
+  Functional Programming •
+  Parallel & Concurrent Programming
+</p>
+
+<p align="center">
+  Database Systems •
+  Linear Algebra •
+  Statistics •
+  Discrete Mathematics •
+  Mathematical Optimization
+</p>
+
+---
 
 <div align="center">
 
@@ -191,20 +233,24 @@ My work in data and AI is supported by a foundation in:
 </p>
 
 </div>
+
 ---
 
-## Let's Connect
+<div align="center">
+
+## 📫 Let's Connect
 
 <p>
-  <a href="www.linkedin.com/in/srisupha-chawla">
+  <a href="https://www.linkedin.com/in/srisupha-chawla/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Srisupha29">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
----
+<br>
 
-<p align="center">
-  <i>Building with data. Learning by building.</i>
-</p>
+<i>Building with data. Learning by building.</i>
 
 </div>
