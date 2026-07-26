@@ -177,33 +177,6 @@ My work in data and AI is supported by a foundation in:
 * Discrete Mathematics
 * Mathematical Optimization
 
----
-<div align="center">
-  
-## What I'm Building Toward
-
-I'm working toward becoming a **data-focused software engineer / data scientist** who can build complete data products rather than only individual models.
-
-```text
-Data Collection
-      ↓
-ETL & Data Engineering
-      ↓
-SQL & Data Storage
-      ↓
-EDA & Statistical Analysis
-      ↓
-Machine Learning
-      ↓
-Visualization & Business Intelligence
-      ↓
-Deployment
-      ↓
-Automation & Scale
-```
-</div>
----
-
 <div align="center">
 
 ## 📊 GitHub Analytics
