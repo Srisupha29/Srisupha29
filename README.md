@@ -173,7 +173,8 @@ My work in data and AI is supported by a foundation in:
 * Mathematical Optimization
 
 ---
-
+<div align="center">
+  
 ## What I'm Building Toward
 
 I'm working toward becoming a **data-focused software engineer / data scientist** who can build complete data products rather than only individual models.
@@ -195,7 +196,7 @@ Deployment
       ↓
 Automation & Scale
 ```
-
+</div>
 ---
 
 <div align="center">
