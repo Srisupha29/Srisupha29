@@ -40,7 +40,7 @@
 
 <td width="33%" align="center" valign="top">
 
-<h3>📊 Data Science</h3>
+<h3>Data Science</h3>
 
 <p>
 Exploratory data analysis, statistics, feature engineering,
@@ -52,7 +52,7 @@ and business-focused data analysis.
 
 <td width="33%" align="center" valign="top">
 
-<h3>🤖 Machine Learning & AI</h3>
+<h3>Machine Learning & AI</h3>
 
 <p>
 Supervised and unsupervised learning, neural networks,
@@ -64,7 +64,7 @@ and intelligent prediction systems.
 
 <td width="33%" align="center" valign="top">
 
-<h3>🧠 AI Engineering</h3>
+<h3>AI Engineering</h3>
 
 <p>
 LLMs, RAG, AI agents, prompt engineering, tool calling,
@@ -82,14 +82,14 @@ embeddings, vector databases, and AI-powered applications.
 
 <div align="center">
 
-## 🚀 Featured Portfolio Projects
+## Featured Portfolio Projects
 
 <table>
 <tr>
 
 <td width="50%" valign="top" align="center">
 
-<h3>01. 🩺 Breast Cancer Prediction</h3>
+<h3>01. Breast Cancer Prediction</h3>
 
 <p>
 A machine learning classification project using clinical data
@@ -117,7 +117,7 @@ Python • Pandas • Scikit-learn • Streamlit • Docker
 
 <td width="50%" valign="top" align="center">
 
-<h3>02. 📊 Customer Dashboard</h3>
+<h3>02. Customer Analytics Dashboard</h3>
 
 <p>
 A customer analytics project exploring purchasing behaviour,
@@ -144,7 +144,7 @@ SQL • MySQL • Python • Data Analysis • Power BI
 
 <td width="50%" valign="top" align="center">
 
-<h3>03. 🚚 Supply Chain Risk Analysis</h3>
+<h3>03. Supply Chain Risk Analysis</h3>
 
 <p>
 A data science project focused on identifying high-risk
@@ -167,7 +167,7 @@ Python • Pandas • Statistics • Scikit-learn • Machine Learning
 
 <td width="50%" valign="top" align="center">
 
-<h3>🔨 More AI Projects Coming Soon</h3>
+<h3> More AI Projects Coming Soon</h3>
 
 <p>
 Currently expanding my portfolio into
@@ -191,7 +191,7 @@ Deep Learning • LLMs • RAG • AI Agents
 
 <div align="center">
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages
 
@@ -235,14 +235,14 @@ Deep Learning • LLMs • RAG • AI Agents
 
 <div align="center">
 
-## 📚 Currently Learning
+## Currently Learning
 
 <table>
 <tr>
 
 <td width="33%" valign="top" align="center">
 
-<h3>📊 Data Science & ML</h3>
+<h3> Data Science & ML</h3>
 
 <p>
 Advanced EDA<br>
@@ -259,7 +259,7 @@ Time Series & Forecasting
 
 <td width="33%" valign="top" align="center">
 
-<h3>🧠 Deep Learning & LLMs</h3>
+<h3> Deep Learning & LLMs</h3>
 
 <p>
 Neural Networks<br>
@@ -276,7 +276,7 @@ Prompt Engineering
 
 <td width="33%" valign="top" align="center">
 
-<h3>🤖 Agentic AI & AI Engineering</h3>
+<h3> Agentic AI & AI Engineering</h3>
 
 <p>
 RAG Systems<br>
@@ -300,7 +300,7 @@ AI Application Deployment
 
 <div align="center">
 
-## 🧭 AI Engineering Roadmap
+## AI Engineering Roadmap
 
 <p>
 
@@ -338,7 +338,7 @@ AI Application Deployment
 
 <div align="center">
 
-## 🔍 Areas of Interest
+## Areas of Interest
 
 <p>
 <img src="https://img.shields.io/badge/Data%20Science-3776AB?style=for-the-badge"/>
@@ -359,14 +359,14 @@ AI Application Deployment
 
 <div align="center">
 
-## 🧩 What I'm Interested in Building
+## What I'm Interested in Building
 
 <table>
 <tr>
 
 <td width="50%" align="center" valign="top">
 
-<h3>📈 Intelligent Data Products</h3>
+<h3> Intelligent Data Products</h3>
 
 <p>
 Systems that combine data engineering, statistics,
@@ -378,7 +378,7 @@ into useful business insights and decisions.
 
 <td width="50%" align="center" valign="top">
 
-<h3>🤖 AI-Powered Applications</h3>
+<h3> AI-Powered Applications</h3>
 
 <p>
 Applications powered by LLMs, RAG, AI agents,
@@ -397,7 +397,7 @@ to automate workflows and solve complex problems.
 
 <div align="center">
 
-## 🎓 Computer Science Foundation
+## Computer Science Foundation
 
 <p>
 Data Structures & Algorithms
@@ -429,7 +429,7 @@ Mathematical Optimization
 
 <div align="center">
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <p>
 <img src="https://github-readme-stats.vercel.app/api?username=Srisupha29&show_icons=true&theme=transparent&hide_border=true" height="170"/>
@@ -446,7 +446,7 @@ Mathematical Optimization
 
 <div align="center">
 
-## 📫 Let's Connect
+## Let's Connect
 
 <p>
 
