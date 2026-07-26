@@ -1,6 +1,6 @@
 # Hi, I'm Srisupha Chawla 
 
-### Data Science • AI/ML • Data Engineering • Software Development
+### Data Science • AI/ML • Data Engineering 
 
 I'm a **Computer Science student** interested in building data-driven solutions at the intersection of **machine learning, analytics, software engineering, and business**.
 
