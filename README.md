@@ -429,22 +429,27 @@ Mathematical Optimization
 
 <div align="center">
 
-## GitHub Analytics
+## 📊 GitHub Analytics
 
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=Srisupha29&show_icons=true&theme=transparent&hide_border=true" height="170"/>
-<img src="https://streak-stats.demolab.com?user=Srisupha29&theme=transparent&hide_border=true&v=2"/>
-</p>
+<div align="center">
 
-<p>
-<img src="https://streak-stats.demolab.com?user=Srisupha29&theme=transparent&hide_border=true"/>
-</p>
+<a href="https://github.com/Srisupha29">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Srisupha29&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"/>
+</a>
+
+<a href="https://github.com/Srisupha29">
+  <img height="170" src="https://streak-stats.demolab.com?user=Srisupha29&theme=transparent&hide_border=true"/>
+</a>
+
+<br>
+
+<a href="https://github.com/Srisupha29">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srisupha29&layout=compact&theme=transparent&hide_border=true"/>
+</a>
 
 </div>
 
 ---
-
-<div align="center">
 
 ## Let's Connect
 
