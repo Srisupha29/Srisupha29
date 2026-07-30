@@ -438,6 +438,7 @@ Mathematical Optimization
 </div>
 
 ## Let's Connect
+<div align="center">
 
 <p>
 
@@ -456,3 +457,5 @@ Mathematical Optimization
 <i>Building with data. Learning by building.</i>
 
 </div>
+
+<div align="center">
