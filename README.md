@@ -430,7 +430,7 @@ Mathematical Optimization
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Srisupha29&theme=transparent&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Srisupha29" alt="GitHub Streak" />
 </div>
 
 ## Let's Connect
