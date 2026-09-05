@@ -5,8 +5,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=800&lines=Computer+Science+Student;Data+Science+%7C+Machine+Learning;Deep+Learning+%7C+Neural+Networks;LLMs+%7C+Agentic+AI;Building+Intelligent+Data-Driven+Systems" alt="Typing SVG" />
 
 <p>
-  <a href="https://github.com/Srisupha29">GitHub</a>
-  •
   <a href="https://www.linkedin.com/in/srisupha-chawla/">LinkedIn</a>
 </p>
 
