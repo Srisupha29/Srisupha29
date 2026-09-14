@@ -142,29 +142,6 @@ SQL • MySQL • Python • Data Analysis • Tableau
 
 <td width="50%" valign="top" align="center">
 
-<h3>03. Supply Chain Risk Analysis</h3>
-
-<p>
-A data science project focused on identifying high-risk
-supply chain conditions using inventory, lead times,
-shipping, manufacturing, defect, and inspection data.
-</p>
-
-<p>
-<strong>Tech Stack:</strong><br>
-Python • Pandas • Statistics • Scikit-learn • Machine Learning
-</p>
-
-<p>
-<a href="https://github.com/Srisupha29/DataScience_Projects/tree/main/SupplyChain">
-💻 Source Code
-</a>
-</p>
-
-</td>
-
-<td width="50%" valign="top" align="center">
-
 <h3> More AI Projects Coming Soon</h3>
 
 <p>
