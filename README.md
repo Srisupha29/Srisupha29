@@ -59,18 +59,6 @@ and intelligent prediction systems.
 </p>
 
 </td>
-
-<td width="33%" align="center" valign="top">
-
-<h3>AI Engineering</h3>
-
-<p>
-LLMs, RAG, AI agents, prompt engineering, tool calling,
-embeddings, vector databases, and AI-powered applications.
-</p>
-
-</td>
-
 </tr>
 </table>
 
@@ -173,10 +161,8 @@ Deep Learning • LLMs • RAG • AI Agents
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white"/>
 <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
-<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
 </p>
 
 ### Data Science & Machine Learning
@@ -242,70 +228,12 @@ Deep Learning<br>
 PyTorch<br>
 Transformers<br>
 Large Language Models<br>
-Embeddings<br>
-Vector Search<br>
-Prompt Engineering
-</p>
-
-</td>
-
-<td width="33%" valign="top" align="center">
-
-<h3> Agentic AI & AI Engineering</h3>
-
-<p>
-RAG Systems<br>
-AI Agents<br>
-Agentic Workflows<br>
-LLM Applications<br>
-Tool Calling<br>
-Vector Databases<br>
-AI APIs<br>
-AI Application Deployment
 </p>
 
 </td>
 
 </tr>
 </table>
-
-</div>
-
----
-
-<div align="center">
-
-## AI Engineering Roadmap
-
-<p>
-
-<strong>Data</strong>
-&nbsp;→&nbsp;
-<strong>EDA & Statistics</strong>
-&nbsp;→&nbsp;
-<strong>Machine Learning</strong>
-&nbsp;→&nbsp;
-<strong>Deep Learning</strong>
-&nbsp;→&nbsp;
-<strong>Neural Networks</strong>
-
-</p>
-
-<p>
-
-<strong>Neural Networks</strong>
-&nbsp;→&nbsp;
-<strong>Transformers</strong>
-&nbsp;→&nbsp;
-<strong>LLMs</strong>
-&nbsp;→&nbsp;
-<strong>RAG</strong>
-&nbsp;→&nbsp;
-<strong>AI Agents</strong>
-&nbsp;→&nbsp;
-<strong>AI Engineering</strong>
-
-</p>
 
 </div>
 
@@ -323,8 +251,6 @@ AI Application Deployment
 <img src="https://img.shields.io/badge/LLMs-6A5ACD?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Agentic%20AI-008080?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/RAG-4682B4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AI%20Engineering-2F4F4F?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Data%20Engineering-006400?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Business%20Intelligence-F2C811?style=for-the-badge"/>
 </p>
 
